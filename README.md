@@ -1,4 +1,4 @@
-# DSA_CPP_ARRAYS
+# DSA_ARRAYS
 #this is my first git repository of DSA(Data Structures and Algorithms)
 
 *In this journey I am going to share my codes in this github acc and lets master DSA 😊😊
